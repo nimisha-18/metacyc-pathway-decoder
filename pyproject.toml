@@ -1,0 +1,19 @@
+
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metacyc-pathway-decoder"
+version = "0.1.0"
+description = "A Python package to retrieve readable names for MetaCyc pathway identifiers using the BioCyc web service."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+
+dependencies = [
+    "requests>=2.31.0"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+clr_50_heatmap.csv
+dist/
+junk.ipynb
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
