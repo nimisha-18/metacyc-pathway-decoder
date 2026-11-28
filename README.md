@@ -31,7 +31,7 @@ Credentials should be entered locally and should never be hardcoded into scripts
 
 `pip install metacyc-pathway-decoder`
 
-*Note: Installation through PyPI will be available following package publication.*
+*Note: It's on PyPI now.*
 
 ## Authentication
 

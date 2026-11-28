@@ -17,3 +17,8 @@ dependencies = [
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[project.urls]
+Homepage = "https://github.com/nimisha-18/metacyc-pathway-decoder"
+Repository = "https://github.com/nimisha-18/metacyc-pathway-decoder"
+Issues = "https://github.com/nimisha-18/metacyc-pathway-decoder/issues"
